@@ -1,0 +1,25 @@
+visionqa_config.json
+
+# 本地运行时的截图缓存目录
+server_images/
+
+# 运行日志
+*.log
+
+# 字节码缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+
+build/
+dist/
+*.spec
+
+.idea/
+.vscode/
